@@ -1,6 +1,6 @@
 name: pamelameraz
 favicon: null
-layout_spectrum: 0.25219597900286317
+layout_spectrum: 1
 typography_spectrum: 0.49428
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6397669613361359
-  lightness: 0.7914995406754315
-  saturation: 0.7163164862431586
-  rhythmicContrast: 0.26169339241459966
+    - '#fbfbfd'
+    - '#dbaab2'
+    - '#a36876'
+    - '#715562'
+    - '#421821'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
