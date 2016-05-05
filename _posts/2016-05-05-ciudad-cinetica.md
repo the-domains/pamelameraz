@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Cualquier persona que viva o haya tenido la oportunidad de visitar la Gran Caracas, no puede negar que al transitar por la autopista Francisco Fajardo, la enorme esfera naranja ha robado su atención en más de una ocasión. Jesús Soto, fue el creador de la “Esfera de Caracas”, diseñada en diciembre de 1996 con la finalidad de mejorar los espacios públicos de la ciudad.'
-datePublished: '2016-05-05T14:36:33.543Z'
-dateModified: '2016-05-05T14:35:53.296Z'
-title: Ciudad Cinética
+datePublished: '2016-05-05T14:39:41.896Z'
+dateModified: '2016-05-05T14:39:22.185Z'
+title: ''
 author: []
+sourcePath: _posts/2016-05-05-ciudad-cinetica.md
 authors: []
 publisher:
   name: null
@@ -16,14 +17,13 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-ciudad-cinetica.md
 url: ciudad-cinetica/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/358b3d39-b491-4402-b582-20277a86e457.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/720f9401-920e-4eb0-9a3a-dbe0238874cc.jpg)
 
-# Ciudad Cinética
+Ciudad Cinética
 
 Cualquier persona que viva o haya tenido la oportunidad de visitar la Gran Caracas, no puede negar que al transitar por la autopista Francisco Fajardo, la enorme esfera naranja ha robado su atención en más de una ocasión. Jesús Soto, fue el creador de la "Esfera de Caracas", diseñada en diciembre de 1996 con la finalidad de mejorar los espacios públicos de la ciudad.
 
@@ -40,5 +40,3 @@ El cinetismo busca la integración del espectador en la obra, en tiempo y espaci
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c94822c-e553-43c0-b3ad-548664773759.jpg)
 
 Carlos Cruz Diez, dice: "Lo importantes no es que la obra se mueva, esto no es lo característico, lo trascendente es que la obra deja de ser una estructura para convertirse en un acontecimiento". Quién iba a pensar que precisamente es su obra "Cromointerferencia de color aditivo" que desde hace 35 años ha contemplado las millones de pisadas y equipajes en la terminal internacional del aeropuerto Simón Bolívar de Maiquetía, es el símbolo del acontecimiento migratorio de los últimos años en el país. Esta obra cinética se convirtió en la imagen que circula en las redes sociales de los viajeros que publican sus fotos antes de tomar su vuelo, capturando el momento histórico personal que representa su partida. Es en ese cinetismo venezolano donde encuentran la manifestación de su identidad, de su despedida, de su Venezuela cinética que están a punto de dejar, misma que los recibe y recibirá cada vez que regresen.
-
-- See more at: http://comeven.org/ciudad-cinetica/\#sthash.s8VyGjZ9.dpuf
