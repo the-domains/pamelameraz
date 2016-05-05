@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Cualquier persona que viva o haya tenido la oportunidad de visitar la Gran Caracas, no puede negar que al transitar por la autopista Francisco Fajardo, la enorme esfera naranja ha robado su atención en más de una ocasión. Jesús Soto, fue el creador de la “Esfera de Caracas”, diseñada en diciembre de 1996 con la finalidad de mejorar los espacios públicos de la ciudad.'
-datePublished: '2016-05-05T14:39:41.896Z'
-dateModified: '2016-05-05T14:39:22.185Z'
+datePublished: '2016-05-05T14:42:26.460Z'
+dateModified: '2016-05-05T14:40:31.216Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-ciudad-cinetica.md
@@ -23,7 +23,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/720f9401-920e-4eb0-9a3a-dbe0238874cc.jpg)
 
-Ciudad Cinética
+# Ciudad Cinética
 
 Cualquier persona que viva o haya tenido la oportunidad de visitar la Gran Caracas, no puede negar que al transitar por la autopista Francisco Fajardo, la enorme esfera naranja ha robado su atención en más de una ocasión. Jesús Soto, fue el creador de la "Esfera de Caracas", diseñada en diciembre de 1996 con la finalidad de mejorar los espacios públicos de la ciudad.
 
