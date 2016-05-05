@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://comeven.org/ciudad-cinetica/'
 inLanguage: es
 keywords: []
 description: 'Cualquier persona que viva o haya tenido la oportunidad de visitar la Gran Caracas, no puede negar que al transitar por la autopista Francisco Fajardo, la enorme esfera naranja ha robado su atención en más de una ocasión.'
-datePublished: '2016-05-05T13:44:03.163Z'
-dateModified: '2016-05-05T13:43:44.064Z'
+datePublished: '2016-05-05T13:56:10.855Z'
+dateModified: '2016-05-05T13:56:07.579Z'
 author:
   - name: Pamela Meraz
     url: ''
@@ -15,6 +15,7 @@ author:
 related: []
 app_links: []
 title: Ciudad Cinética
+sourcePath: _posts/2016-05-05-ciudad-cinetica.md
 authors: []
 publisher:
   name: COMEVEN.ORG
@@ -22,7 +23,6 @@ publisher:
   url: 'http://comeven.org'
   favicon: 'http://comeven.org/wp-content/uploads/2016/04/favicon-32x32.png'
 starred: false
-sourcePath: _posts/2016-05-05-ciudad-cinetica.md
 _context: 'http://schema.org'
 _type: MediaObject
 
