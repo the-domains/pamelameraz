@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Cada año Caracas es el escenario de una hermosa tradición que tiene una historia muy peculiar basada en fe y montaña.
-datePublished: '2016-05-05T14:25:00.352Z'
-dateModified: '2016-05-05T14:24:26.644Z'
+description: 'Todo comenzó en la década de 1770, cuando la peste de la fiebre amarilla o también llamada vómito negro, azotó la ciudad de Caracas causando muchas muertes. Fue entonces cuando el párraco José Antonio Mohedano envió a los peones de las haciendas aledañas al cerro del Ávila a buscar la palma real. Cumpliendo la petición de su párroco, un grupo de hombres escalaron la montaña orando para que la enfermedad desapareciera y bajaron las palmas para bendecirlas. Durante tres días, los trabajadores de las haciendas repartieron las hojas de las palmas en las casas de las familias afectadas. Cuenta la tradición oral, que para cuando llegó el domingo de ramos, todos los enfermos habían sanado. Así fue como nacieron los Palmeros de Chacao, una tradición heredada a través de las generaciones como símbolo de unión y fe para los caraqueños.'
+datePublished: '2016-05-05T14:56:14.213Z'
+dateModified: '2016-05-05T14:56:07.034Z'
 title: Los Palmeros de Chacao
 author: []
 sourcePath: _posts/2016-05-05-los-palmeros-de-chacao.md
@@ -25,7 +25,7 @@ _type: Article
 
 # Los Palmeros de Chacao
 
-Cada año Caracas es el escenario de una hermosa tradición que tiene una historia muy peculiar basada en fe y montaña.
+> Cada año Caracas es el escenario de una hermosa tradición que tiene una historia muy peculiar basada en fe y montaña.
 
 Todo comenzó en la década de 1770, cuando la peste de la fiebre amarilla o también llamada vómito negro, azotó la ciudad de Caracas causando muchas muertes. Fue entonces cuando el párraco José Antonio Mohedano envió a los peones de las haciendas aledañas al cerro del Ávila a buscar la palma real. Cumpliendo la petición de su párroco, un grupo de hombres escalaron la montaña orando para que la enfermedad desapareciera y bajaron las palmas para bendecirlas. Durante tres días, los trabajadores de las haciendas repartieron las hojas de las palmas en las casas de las familias afectadas. Cuenta la tradición oral, que para cuando llegó el domingo de ramos, todos los enfermos habían sanado. Así fue como nacieron los Palmeros de Chacao, una tradición heredada a través de las generaciones como símbolo de unión y fe para los caraqueños.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3aa0d1dc-67b3-45e7-8589-e7e458bb64da.jpg)
